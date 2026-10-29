@@ -1,0 +1,155 @@
+{
+ "news": [
+  {
+   "id": "d2340c78",
+   "topic": "發票",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "e9909a95",
+   "topic": "台湾彩券",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "af637815",
+   "topic": "46k",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "4a6d3b7a",
+   "topic": "友達光電",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "1276afe8",
+   "topic": "微軟股價",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "41667c37",
+   "topic": "所得 替代 率",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "ced98a6a",
+   "topic": "台南火車站鋼琴不能隨便彈?台鐵突貼公告 市府出面協調",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.65,
+   "light": "none"
+  },
+  {
+   "id": "d4f7d729",
+   "topic": "tsm",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "f3bc6f38",
+   "topic": "Alphabet暴跌12%美股全黑!台指夜盤跌643點 台股4萬6關卡告急",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "5a21a922",
+   "topic": "田馥甄直播哭了!心疼歌迷抽不到票 羞喊「太丟臉了」",
+   "sources": [
+    "Yahoo 娛樂"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "d634aae0",
+   "topic": "直擊 PoloFest 東京現場!吳建豪、楊艾倫帥襲潮流派對,把美式經典穿出街頭新高度!",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.75,
+   "light": "none"
+  },
+  {
+   "id": "f55c52ec",
+   "topic": "47歲章子怡減齡穿搭太強!寬褲6公式:顯瘦這樣穿視覺比例超好",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.75,
+   "light": "none"
+  },
+  {
+   "id": "e6b02e98",
+   "topic": "好看的顏色搭配有哪些?女星都愛的7種「雙色穿搭」盤點,除了黑白今年你更該學會微亮色系組合",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.65,
+   "light": "none"
+  },
+  {
+   "id": "563655b3",
+   "topic": "大家突然都改穿條紋Polo衫?比條紋襯衫更輕鬆又比T恤正式!日常穿搭明星不分男女都愛穿的好看上衣哪裡買",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.6,
+   "light": "none"
+  },
+  {
+   "id": "64621203",
+   "topic": "告別藍丹寧,2026秋冬必備「棕色牛仔褲」7大穿搭指南,不費力穿出高智感靠的是?",
+   "sources": [
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "a308c05b",
+   "topic": "從巴黎時裝週悄然掀起的風格革命!Google Pixel 憑藉頂級設計美學,成為席捲時尚圈的話題單品 - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ]
+}
