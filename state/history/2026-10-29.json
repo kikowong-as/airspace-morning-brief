@@ -1,0 +1,158 @@
+{
+ "news": [
+  {
+   "id": "578f5fe3",
+   "topic": "交通",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "7f81f35b",
+   "topic": "林世宗",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.425,
+   "light": "none"
+  },
+  {
+   "id": "347ead63",
+   "topic": "mac",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.35,
+   "light": "none"
+  },
+  {
+   "id": "5eca62f5",
+   "topic": "清六食堂",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.275,
+   "light": "none"
+  },
+  {
+   "id": "49f07d4c",
+   "topic": "大愛電視",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.2,
+   "light": "none"
+  },
+  {
+   "id": "b9610c7c",
+   "topic": "家家遭爆因愛喝酒丟工作!深夜吐心聲「會虛心受教」 姊姊紀曉君27字力挺",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.2,
+   "light": "none"
+  },
+  {
+   "id": "6113dff3",
+   "topic": "百萬女神電梯內放屁慘遇日本父女!臭味瀰漫逃不掉 進退兩難崩潰求老天",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.15,
+   "light": "none"
+  },
+  {
+   "id": "48b56403",
+   "topic": "友達法說會",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.125,
+   "light": "none"
+  },
+  {
+   "id": "f30f9229",
+   "topic": "嘉市總質詢批到處都在挖路! 黃露慧促協調管線單位、縮短工期",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.06,
+   "light": "none"
+  },
+  {
+   "id": "60d2e00e",
+   "topic": "昆廷·格蘭姆斯",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.05,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "f55c52ec",
+   "topic": "47歲章子怡減齡穿搭太強!寬褲6公式:顯瘦這樣穿視覺比例超好",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "d634aae0",
+   "topic": "直擊 PoloFest 東京現場!吳建豪、楊艾倫帥襲潮流派對,把美式經典穿出街頭新高度!",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.75,
+   "light": "none"
+  },
+  {
+   "id": "563655b3",
+   "topic": "大家突然都改穿條紋Polo衫?比條紋襯衫更輕鬆又比T恤正式!日常穿搭明星不分男女都愛穿的好看上衣哪裡買",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "62ca94df",
+   "topic": "日系穿搭老錢運動風正在夯!AURALEE、COMOLI都在推!日牌Top10件新品清單",
+   "sources": [
+    "YouTube：男生穿搭",
+    "YouTube：穿搭"
+   ],
+   "score": 1.28,
+   "light": "none"
+  },
+  {
+   "id": "b55cf2bf",
+   "topic": "BEAMS 潮流支線 FUTURE ARCHIVE 登台!Road Sign 限時快閃、三款聯名同步開賣!",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.1,
+   "light": "none"
+  },
+  {
+   "id": "64621203",
+   "topic": "告別藍丹寧,2026秋冬必備「棕色牛仔褲」7大穿搭指南,不費力穿出高智感靠的是?",
+   "sources": [
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.0,
+   "light": "none"
+  }
+ ]
+}
