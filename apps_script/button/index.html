@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<base target="_top">
+<meta charset="utf-8">
+<style>
+  body{font-family:-apple-system,"PingFang TC","Noto Sans TC",sans-serif;margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#f9fafb;color:#111827}
+  .box{width:min(92vw,360px);text-align:center}
+  h1{font-size:20px;margin:0 0 20px}
+  input{width:100%;box-sizing:border-box;padding:12px;font-size:16px;border:1px solid #d1d5db;border-radius:10px;margin-bottom:12px;text-align:center}
+  button{width:100%;padding:16px;font-size:18px;font-weight:700;color:#fff;background:#111827;border:0;border-radius:12px;cursor:pointer}
+  button:disabled{opacity:.5}
+  #msg{margin-top:16px;font-size:15px;min-height:22px}
+  .ok{color:#15803d}.err{color:#b91c1c}
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>☀️ Airspace 每日熱點早報</h1>
+  <input id="pin" type="password" inputmode="numeric" placeholder="密碼" autocomplete="off">
+  <button id="btn" onclick="go()">給我今天的早報</button>
+  <div id="msg"></div>
+</div>
+<script>
+  try { document.getElementById('pin').value = localStorage.getItem('pin') || ''; } catch (e) {}
+  function go() {
+    var pin = document.getElementById('pin').value, btn = document.getElementById('btn'), msg = document.getElementById('msg');
+    btn.disabled = true; msg.className = ''; msg.textContent = '送出中…';
+    google.script.run
+      .withSuccessHandler(function (r) {
+        msg.className = r.ok ? 'ok' : 'err'; msg.textContent = r.msg; btn.disabled = false;
+        if (r.ok) { try { localStorage.setItem('pin', pin); } catch (e) {} }
+      })
+      .withFailureHandler(function (e) { msg.className = 'err'; msg.textContent = '失敗：' + e.message; btn.disabled = false; })
+      .requestBrief(pin);
+  }
+</script>
+</body>
+</html>

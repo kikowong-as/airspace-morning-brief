@@ -1,0 +1,15 @@
+# Airspace 品牌設定檔 —— AI 分析會讀這份。
+name: Airspace
+category: 服飾品牌
+# 主品牌受眾大多為女性；r.fav 支線有男性客群。選題要男女兼顧，不能只挑適合女性的話題。
+audience: "以女性為主；另有支線 r.fav 面向男性。話題需同時考慮女裝與男裝"
+products:
+  - 服裝
+platforms:
+  - Instagram
+  - Threads
+  - Facebook
+brand_dont:
+  - 不評論政治立場
+  - 不蹭災難、案件、傷病死亡
+  - 不點名嘲諷藝人或其他品牌
