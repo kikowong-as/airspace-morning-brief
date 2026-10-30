@@ -1,0 +1,158 @@
+{
+ "news": [
+  {
+   "id": "613b133a",
+   "topic": "黃金",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "e3ef643a",
+   "topic": "美國股市",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "25e8381c",
+   "topic": "s&p 500",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "89b3204c",
+   "topic": "同行破盤割喉她聊文藝復興 章小蕙一晚撈1.8億封神 「省腦買法」全網學不來",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "74523a49",
+   "topic": "今彩539開獎號碼",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "c68f920e",
+   "topic": "章小蕙自創羊絨品牌賣翻小紅書 毛衣一件飆破3萬照樣秒殺",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.875,
+   "light": "none"
+  },
+  {
+   "id": "28b1a999",
+   "topic": "普 發 一 萬",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "6763738e",
+   "topic": "費城半導體指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "35a959a4",
+   "topic": "銅箔",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "8acea863",
+   "topic": "洪婉臻造勢大會龍山寺登場 沈伯洋、陳亭妃現身站台",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "e6b02e98",
+   "topic": "好看的顏色搭配有哪些?女星都愛的7種「雙色穿搭」盤點,除了黑白今年你更該學會微亮色系組合",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.06,
+   "light": "none"
+  },
+  {
+   "id": "2823817a",
+   "topic": "59歲金喜愛減齡外套穿搭6招!短版、大衣到西裝外套這樣穿年齡減半!",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "bf610262",
+   "topic": "令人抗拒的大媽紫,竟然成為日韓女生的新寵?早秋流行色「Plum Velvet」李子紫穿搭,配色技巧一次看",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.725,
+   "light": "none"
+  },
+  {
+   "id": "d634aae0",
+   "topic": "直擊 PoloFest 東京現場!吳建豪、楊艾倫帥襲潮流派對,把美式經典穿出街頭新高度!",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.7,
+   "light": "none"
+  },
+  {
+   "id": "62ca94df",
+   "topic": "日系穿搭老錢運動風正在夯!AURALEE、COMOLI都在推!日牌Top10件新品清單",
+   "sources": [
+    "YouTube：男生穿搭",
+    "YouTube：穿搭"
+   ],
+   "score": 1.56,
+   "light": "none"
+  },
+  {
+   "id": "7176754e",
+   "topic": "凱特王妃與梅根穿搭大不同!一樣嫁入英國王室 兩人的穿衣哲學差別在哪?",
+   "sources": [
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ]
+}
