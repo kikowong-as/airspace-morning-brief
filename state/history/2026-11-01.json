@@ -1,0 +1,159 @@
+{
+ "news": [
+  {
+   "id": "6e6c430e",
+   "topic": "黃蜂 對 76人",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "a523045d",
+   "topic": "煙花",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "f7eb18b2",
+   "topic": "英雄 聯盟 世界 大賽",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "22d6f737",
+   "topic": "AI重塑樂壇2/廉價量產搶串流分潤金 產業M型化後製學徒恐斷層",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "7807edfa",
+   "topic": "barcelona vs alavés",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "e27f8b9f",
+   "topic": "AI重塑樂壇1/97%聽眾分不出AI音樂 獨立音樂人爆生存危機",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.875,
+   "light": "none"
+  },
+  {
+   "id": "556060cf",
+   "topic": "義甲",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "0a913355",
+   "topic": "lcs",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "7134f9b2",
+   "topic": "沈伯洋市長辯論金句掀熱議!23年前獨站稻田 3封信早已露端倪",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.65,
+   "light": "none"
+  },
+  {
+   "id": "32f5e082",
+   "topic": "個人運動器材超過上百項 高雄小港運動中心啟用",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.59,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "e6b02e98",
+   "topic": "好看的顏色搭配有哪些?女星都愛的7種「雙色穿搭」盤點,除了黑白今年你更該學會微亮色系組合",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.6,
+   "light": "none"
+  },
+  {
+   "id": "86c7ca97",
+   "topic": "不用飛日本買羽絨外套了!TAION首度登台 潮流夾克、豹紋背心超吸睛",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：潮流單品"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "d634aae0",
+   "topic": "直擊 PoloFest 東京現場!吳建豪、楊艾倫帥襲潮流派對,把美式經典穿出街頭新高度!",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "f9d5fbad",
+   "topic": "歐洲王室成員都怎麼穿襯衫?凱特王妃穿搭親民而黛安娜最愛這「老錢品牌」!學皇室用基本款穿出知性高級感",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "050f3210",
+   "topic": "從 7 坪小店到台北、高雄四間門市!台灣街頭選品店 OPOISM 推出完整服裝系列",
+   "sources": [
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "ee7cee5e",
+   "topic": "2026秋冬大衣怎麼挑?90年代極簡大衣強勢回歸,修身剪裁、俐落長版與精緻領口,穿出不退流行的高級感",
+   "sources": [
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ]
+}
