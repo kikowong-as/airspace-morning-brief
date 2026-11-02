@@ -1,0 +1,159 @@
+{
+ "news": [
+  {
+   "id": "b0fec29f",
+   "topic": "先進封裝",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "ddb0c212",
+   "topic": "豆腐 媽媽",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "a1c9276e",
+   "topic": "aapl",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "f2f32250",
+   "topic": "獨家/蔡康永31日缺席同志大遊行 低調出門會友帶「豐盛餐點」返家",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "ed6a7567",
+   "topic": "台灣彩券",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "13b64b5f",
+   "topic": "獨家/千萬金曲加速版上架 吳汶芳粉絲傻眼急檢舉",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.875,
+   "light": "none"
+  },
+  {
+   "id": "c42b54d4",
+   "topic": "台股夜盤指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "6486dd13",
+   "topic": "天氣台北",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "756fdeaa",
+   "topic": "東森深度周報/史上最嚴峻教師荒 教育現場重大危機",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.65,
+   "light": "none"
+  },
+  {
+   "id": "e47bf309",
+   "topic": "美股",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "2dbdde4d",
+   "topic": "畢業袍穿搭指南|畢業袍內穿甚麼?11個學士袍、畢業裙、畢業鞋推薦+畢業帽正確戴法",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "2823817a",
+   "topic": "59歲金喜愛減齡外套穿搭6招!短版、大衣到西裝外套這樣穿年齡減半!",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "40d4ca41",
+   "topic": "日本冬天穿搭推薦2026!怕冷女生遊日必學「外厚內薄」洋蔥式穿搭技巧",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "86c7ca97",
+   "topic": "不用飛日本買羽絨外套了!TAION首度登台 潮流夾克、豹紋背心超吸睛",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：潮流單品"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "27abd281",
+   "topic": "天氣轉冷!「絎縫外套」在台灣比羽絨外套更合適,秋冬這樣穿搭舒適不顯老",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "09b15ffb",
+   "topic": "現在大家牛仔褲改穿棕色?凱特王妃也愛的咖啡色褲子穿搭 輕鬆就能穿出高級感 好看長褲推薦",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.8,
+   "light": "none"
+  }
+ ]
+}
