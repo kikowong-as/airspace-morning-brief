@@ -1,0 +1,159 @@
+{
+ "news": [
+  {
+   "id": "6763738e",
+   "topic": "費城半導體指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "05bd10df",
+   "topic": "投資",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "2f6544f9",
+   "topic": "台视新闻台",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "d862390f",
+   "topic": "泰國影后超台2/Aokbab茱蒂蒙融入台北 跟陳孝萱一見如故每天討抱抱",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "39407b0e",
+   "topic": "us election",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "d478b635",
+   "topic": "隊友變情郎?2/俐蓁與范姜彥豐拍MV!喊「一日男友」網炸鍋",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.875,
+   "light": "none"
+  },
+  {
+   "id": "42b1c6ed",
+   "topic": "馬德里競技 對 拜仁慕尼黑",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "b678b735",
+   "topic": "泰國影后超台1/泰國影后茱蒂蒙「深夜現身台北街頭」!陳昊森騎Ubike當護花使者",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "5f933ab1",
+   "topic": "衣鳴驚人2/曹格腹肌裝褲子狂掉 陳志朋狂野透視裝驚呆眾人",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.725,
+   "light": "none"
+  },
+  {
+   "id": "49c29f8f",
+   "topic": "飛彈",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "40d4ca41",
+   "topic": "日本冬天穿搭推薦2026!怕冷女生遊日必學「外厚內薄」洋蔥式穿搭技巧",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.1,
+   "light": "none"
+  },
+  {
+   "id": "09b15ffb",
+   "topic": "現在大家牛仔褲改穿棕色?凱特王妃也愛的咖啡色褲子穿搭 輕鬆就能穿出高級感 好看長褲推薦",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.92,
+   "light": "none"
+  },
+  {
+   "id": "86c7ca97",
+   "topic": "不用飛日本買羽絨外套了!TAION首度登台 潮流夾克、豹紋背心超吸睛",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：潮流單品"
+   ],
+   "score": 1.74,
+   "light": "none"
+  },
+  {
+   "id": "ec00d736",
+   "topic": "45歲范冰冰減齡穿搭太強!寬褲6公式:顯瘦這樣穿視覺比例超好",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.725,
+   "light": "none"
+  },
+  {
+   "id": "347536de",
+   "topic": "全智賢和Rosé等時髦女星穿搭都愛「這款包」!大容量信封包低調又百搭精緻YSL Logo更顯時髦氣質",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.725,
+   "light": "none"
+  },
+  {
+   "id": "7176754e",
+   "topic": "凱特王妃與梅根穿搭大不同!一樣嫁入英國王室 兩人的穿衣哲學差別在哪?",
+   "sources": [
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ]
+}
