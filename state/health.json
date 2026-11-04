@@ -1,86 +1,86 @@
 {
  "Google Trends": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Yahoo 頭條": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Yahoo 娛樂": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Yahoo 生活": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "ETtoday": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Dcard": {
-  "fail_streak": 7,
+  "fail_streak": 8,
   "last_ok": "",
-  "date": "2026-11-04",
-  "base": 6
+  "date": "2026-11-05",
+  "base": 7
  },
  "YouTube 熱門": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Google 新聞：穿搭": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Google 新聞：男生穿搭": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Google 新聞：女生穿搭": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Google 新聞：服裝流行": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "Google 新聞：潮流單品": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "YouTube：穿搭": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  },
  "YouTube：男生穿搭": {
   "fail_streak": 0,
-  "last_ok": "2026-11-04",
-  "date": "2026-11-04",
+  "last_ok": "2026-11-05",
+  "date": "2026-11-05",
   "base": 0
  }
 }

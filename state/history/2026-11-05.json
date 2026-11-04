@@ -1,0 +1,158 @@
+{
+ "news": [
+  {
+   "id": "99a41997",
+   "topic": "東北季風",
+   "sources": [
+    "Google Trends",
+    "Yahoo 生活"
+   ],
+   "score": 2.438,
+   "light": "none"
+  },
+  {
+   "id": "04e59784",
+   "topic": "lens vs como",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "4e80cdb0",
+   "topic": "00406a",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "252e70d8",
+   "topic": "coco都可",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "1247e024",
+   "topic": "mu",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "e6cd4ace",
+   "topic": "澳洲儲備銀行",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "8ff803db",
+   "topic": "東森深度周報/AI仿聲名人 譚敦慈受害現身控訴",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.59,
+   "light": "none"
+  },
+  {
+   "id": "b7947eb2",
+   "topic": "台期指夜盤",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "abbe2f5b",
+   "topic": "美期中選舉民主黨大勝!美股3大指數收紅 道瓊暴衝1569點、那指漲364點",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "red"
+  },
+  {
+   "id": "27868aa2",
+   "topic": "台鋼啦啦隊一粒傳轉戰樂天 林岱縈琳妲笑迎新夥伴",
+   "sources": [
+    "Yahoo 娛樂"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "e6b02e98",
+   "topic": "好看的顏色搭配有哪些?女星都愛的7種「雙色穿搭」盤點,除了黑白今年你更該學會微亮色系組合",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.9,
+   "light": "none"
+  },
+  {
+   "id": "89583006",
+   "topic": "52歲簡沛恩減齡穿搭25套:大號外套、斜紋軟呢,創業女王這樣穿",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.4,
+   "light": "none"
+  },
+  {
+   "id": "3e11e359",
+   "topic": "大家都在說Samba退流行,adidas卻默默賺進10億歐元?第3季財報藏著新變化",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：潮流單品"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "40d4ca41",
+   "topic": "日本冬天穿搭推薦2026!怕冷女生遊日必學「外厚內薄」洋蔥式穿搭技巧",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.65,
+   "light": "none"
+  },
+  {
+   "id": "bba1d525",
+   "topic": "薄底鞋好穿嗎?2026流行運動鞋穿搭這款還沒退燒!配長裙和西裝都百搭的好看薄底球鞋哪裡買?",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "64621203",
+   "topic": "告別藍丹寧,2026秋冬必備「棕色牛仔褲」7大穿搭指南,不費力穿出高智感靠的是?",
+   "sources": [
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ]
+}
