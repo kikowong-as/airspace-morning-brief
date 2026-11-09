@@ -1,0 +1,159 @@
+{
+ "news": [
+  {
+   "id": "668bbd6c",
+   "topic": "維生素D補過頭 恐血鈣過高傷腎",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 2.625,
+   "light": "none"
+  },
+  {
+   "id": "28b1a999",
+   "topic": "普 發 一 萬",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "f98669cc",
+   "topic": "weather",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "bb2f422a",
+   "topic": "營業額",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "39df1d92",
+   "topic": "每股盈餘",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "fda50d78",
+   "topic": "白富美媽媽1/直擊《康熙》女星淡出後變慈母!王凱蒂「升格二寶媽」帶娃坐公車",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.875,
+   "light": "none"
+  },
+  {
+   "id": "722eb4aa",
+   "topic": "สภาพอากาศ",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "b93dc5e4",
+   "topic": "名媛帶貨2/向太直播間開賣520萬愛馬仕 章小蕙7小時銷售破億",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "85532b6d",
+   "topic": "白富美媽媽2/《康熙》英文腔超爆笑 Melody「那個 L有多裡面」惹火小S",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 1.725,
+   "light": "none"
+  },
+  {
+   "id": "da5d537d",
+   "topic": "美股指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "bb9db6d3",
+   "topic": "天氣轉涼終於能穿靴子了!8種造型公式拿捏顯瘦哲學,蘿蔔腿、酒杯腿女孩都能輕鬆駕馭",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.85,
+   "light": "none"
+  },
+  {
+   "id": "83550f39",
+   "topic": "41歲尹恩惠「不費力減齡穿搭」太強!球鞋、寬褲、長襪公式,40+女生都能學 - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.85,
+   "light": "none"
+  },
+  {
+   "id": "08742163",
+   "topic": "2026秋冬穿搭5大重點:奶油黃色到電光藍、透視薄紗、機能運動風",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.725,
+   "light": "none"
+  },
+  {
+   "id": "bba1d525",
+   "topic": "薄底鞋好穿嗎?2026流行運動鞋穿搭這款還沒退燒!配長裙和西裝都百搭的好看薄底球鞋哪裡買?",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.55,
+   "light": "none"
+  },
+  {
+   "id": "9e3b1e91",
+   "topic": "周董又曬超狂訂製克羅心牛仔褲!豹紋毛皮材質搭配經典十字銀飾太兇狠",
+   "sources": [
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "cfbf4838",
+   "topic": "2026秋冬洋裝流行這9款!60年代娃娃裝、90年代極簡風回歸,透膚蕾絲與亮片成焦點",
+   "sources": [
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ]
+}
