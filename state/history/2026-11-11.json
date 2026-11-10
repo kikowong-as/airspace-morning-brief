@@ -1,0 +1,162 @@
+{
+ "news": [
+  {
+   "id": "6b4860dd",
+   "topic": "維生素A過量傷肝 孕婦吸菸者要當心",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 2.7,
+   "light": "none"
+  },
+  {
+   "id": "4a6d3b7a",
+   "topic": "友達光電",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "9ff8b40a",
+   "topic": "融冰危機 台灣海平面上升 恐高於全球平均",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 2.115,
+   "light": "none"
+  },
+  {
+   "id": "979bc7c5",
+   "topic": "大乐透",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "cdbf233f",
+   "topic": "接軌國際...胃癌創新療法 把握黃金治療期",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.98,
+   "light": "none"
+  },
+  {
+   "id": "56a24904",
+   "topic": "先進 封裝",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "2483d326",
+   "topic": "護病比新制衝擊 急診待床人數恐更多",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.845,
+   "light": "none"
+  },
+  {
+   "id": "f98669cc",
+   "topic": "weather",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "40a89aad",
+   "topic": "撞臉",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "2c628ec4",
+   "topic": "8月「喜馬拉雅海嘯」太痛 尼泊爾籲正視高山氣候危機",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.71,
+   "light": "red"
+  }
+ ],
+ "style": [
+  {
+   "id": "ccae3287",
+   "topic": "運動與復古潮流穿搭全都有美津濃台北大巨蛋門市「姓林的」強力推薦- 生活新聞",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.325,
+   "light": "none"
+  },
+  {
+   "id": "bb9db6d3",
+   "topic": "天氣轉涼終於能穿靴子了!8種造型公式拿捏顯瘦哲學,蘿蔔腿、酒杯腿女孩都能輕鬆駕馭",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.05,
+   "light": "none"
+  },
+  {
+   "id": "bba1d525",
+   "topic": "薄底鞋好穿嗎?2026流行運動鞋穿搭這款還沒退燒!配長裙和西裝都百搭的好看薄底球鞋哪裡買?",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.86,
+   "light": "none"
+  },
+  {
+   "id": "83550f39",
+   "topic": "41歲尹恩惠「不費力減齡穿搭」太強!球鞋、寬褲、長襪公式,40+女生都能學 - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "cbb1dea8",
+   "topic": "2026秋冬外套趨勢:盤點6款今年秋冬必備外套,皮衣、大衣、機能夾克...你還缺哪件? - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "80edf120",
+   "topic": "秋冬外套好物推薦🍁 UNIQLO、質感日牌外套開箱|每個男生都該有這件?",
+   "sources": [
+    "YouTube：男生穿搭",
+    "YouTube：穿搭"
+   ],
+   "score": 1.68,
+   "light": "none"
+  }
+ ]
+}
