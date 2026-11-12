@@ -1,0 +1,157 @@
+{
+ "news": [
+  {
+   "id": "ad0b9da7",
+   "topic": "聖嬰現象",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "90426c1b",
+   "topic": "米拉·安祖莉娃",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "958ba554",
+   "topic": "道瓊工業平均指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "44ab36ad",
+   "topic": "那斯達克綜合指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "9a71ad6a",
+   "topic": "股票",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "ce01e9c3",
+   "topic": "桃園捷運",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "9c486956",
+   "topic": "阮慕驊",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "89dcfbfa",
+   "topic": "每天一杯紅酒真的沒問題?哈佛研究提醒50歲後酒精代謝改變,肝臟、心臟都可能受影響",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "2e65fc7f",
+   "topic": "羅大佑批蔡英文等人「沒生小孩」被罵翻 吳姍儒發聲了",
+   "sources": [
+    "Yahoo 娛樂"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "cdaa6040",
+   "topic": "明午後「劇烈雨勢」雨區變化曝 下周低溫探15度",
+   "sources": [
+    "ETtoday"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "d54eb198",
+   "topic": "2026秋冬皮衣穿搭5款推薦!宋慧喬、孫藝珍、Karina都在穿,復古棕色、寬版皮衣最時髦 - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.46,
+   "light": "none"
+  },
+  {
+   "id": "d13a7b08",
+   "topic": "不用飛日本,也能穿出好品味!英倫品牌 Traditional Weatherwear,把基本款穿出高級感",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "80edf120",
+   "topic": "秋冬外套好物推薦🍁 UNIQLO、質感日牌外套開箱|每個男生都該有這件?",
+   "sources": [
+    "YouTube：男生穿搭",
+    "YouTube：穿搭"
+   ],
+   "score": 1.92,
+   "light": "none"
+  },
+  {
+   "id": "fd212965",
+   "topic": "2026秋冬外套趨勢:盤點6款今年秋冬必備外套,立領皮衣、大衣、機能夾克...你還缺哪件? - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.875,
+   "light": "none"
+  },
+  {
+   "id": "bba1d525",
+   "topic": "薄底鞋好穿嗎?2026流行運動鞋穿搭這款還沒退燒!配長裙和西裝都百搭的好看薄底球鞋哪裡買?",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.875,
+   "light": "none"
+  },
+  {
+   "id": "eb327517",
+   "topic": "凱特王妃Barbour外套配淺色牛仔褲又被問爆!3年前就穿過的重複穿搭是換季日常造型最佳示範",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.725,
+   "light": "none"
+  }
+ ]
+}
