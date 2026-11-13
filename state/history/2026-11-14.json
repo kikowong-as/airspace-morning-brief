@@ -1,0 +1,161 @@
+{
+ "news": [
+  {
+   "id": "b598f0e2",
+   "topic": "天氣",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "a99457ef",
+   "topic": "thời tiết",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "f98669cc",
+   "topic": "weather",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "722eb4aa",
+   "topic": "สภาพอากาศ",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "5b61695d",
+   "topic": "夜市",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "a95c17cc",
+   "topic": "台指期夜盤指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "9f2420c5",
+   "topic": "楊麗花",
+   "sources": [
+    "Google Trends",
+    "Yahoo 娛樂"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "ecb0e850",
+   "topic": "全台午後陸續變天 今晚至明晨雨勢最猛 中北部恐短時較大雨勢",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.65,
+   "light": "none"
+  },
+  {
+   "id": "8937b775",
+   "topic": "戴立安最新民調 童子瑋反超謝國樑3.3%",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.635,
+   "light": "none"
+  },
+  {
+   "id": "d2340c78",
+   "topic": "發票",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "f8f7fcc1",
+   "topic": "英國王室成員誰最能駕馭格紋穿搭?凱特王妃和夏綠蒂母女裝最優雅黛安娜王妃造型道現在依然經典",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.775,
+   "light": "none"
+  },
+  {
+   "id": "82a825f1",
+   "topic": "2026秋冬穿搭推薦|12個女生上班的時尚穿搭公式:極簡風、寬鬆牛仔褲、商務休閒風穿出高級感",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 2.7,
+   "light": "none"
+  },
+  {
+   "id": "e3d15143",
+   "topic": "木村拓哉來台過生日又穿「這愛牌」牛仔褲!專訪日本潮流天王一條褲子收藏20年不洗牛仔褲的養褲哲學",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.325,
+   "light": "none"
+  },
+  {
+   "id": "73ceaaf1",
+   "topic": "MUSINSA 台灣首間門市傳落腳西門町!球鞋社群起家、替國家隊設計奧運服⋯6 件事快認識!",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 2.175,
+   "light": "none"
+  },
+  {
+   "id": "bba1d525",
+   "topic": "薄底鞋好穿嗎?2026流行運動鞋穿搭這款還沒退燒!配長裙和西裝都百搭的好看薄底球鞋哪裡買?",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.98,
+   "light": "none"
+  },
+  {
+   "id": "bb9db6d3",
+   "topic": "天氣轉涼終於能穿靴子了!8種造型公式拿捏顯瘦哲學,蘿蔔腿、酒杯腿女孩都能輕鬆駕馭",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.95,
+   "light": "none"
+  }
+ ]
+}
