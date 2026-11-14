@@ -1,0 +1,158 @@
+{
+ "news": [
+  {
+   "id": "d41c2a38",
+   "topic": "輝達",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "81d48b02",
+   "topic": "華邦電子",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "9762ce66",
+   "topic": "wta 年終賽",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "86f7e437",
+   "topic": "a",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "ed6a7567",
+   "topic": "台灣彩券",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "9ad88dab",
+   "topic": "遊戲",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "c6ed8ce1",
+   "topic": "東森深度周報/公車陷困境! 道路危機四伏、駕駛長缺工惡性循環",
+   "sources": [
+    "Yahoo 生活",
+    "Yahoo 頭條"
+   ],
+   "score": 1.65,
+   "light": "none"
+  },
+  {
+   "id": "9663d14c",
+   "topic": "portugal vs denmark",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "627dbfe3",
+   "topic": "全面監控 港監視器啟用人臉識別",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "77656693",
+   "topic": "林岱縈瘦到42公斤 公開喝油保養術",
+   "sources": [
+    "Yahoo 娛樂"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "6fee5bfd",
+   "topic": "2026秋冬撞色美學:從Prada「Ugly-Chic」靈感到9組高級感穿搭色彩公式",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.0,
+   "light": "none"
+  },
+  {
+   "id": "d54eb198",
+   "topic": "2026秋冬皮衣穿搭5款推薦!宋慧喬、孫藝珍、Karina都在穿,復古棕色、寬版皮衣最時髦 - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.925,
+   "light": "none"
+  },
+  {
+   "id": "d13a7b08",
+   "topic": "不用飛日本,也能穿出好品味!英倫品牌 Traditional Weatherwear,把基本款穿出高級感",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "c7d3fe32",
+   "topic": "BTS演唱會穿搭攻略!Nike聯名T恤變性感短版、客製化燙印服飾展現個性",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "e3d15143",
+   "topic": "木村拓哉來台過生日又穿「這愛牌」牛仔褲!專訪日本潮流天王一條褲子收藏20年不洗牛仔褲的養褲哲學",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.9,
+   "light": "none"
+  },
+  {
+   "id": "82a825f1",
+   "topic": "2026秋冬穿搭推薦|12個女生上班的時尚穿搭公式:極簡風、寬鬆牛仔褲、商務休閒風穿出高級感",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.9,
+   "light": "none"
+  }
+ ]
+}
