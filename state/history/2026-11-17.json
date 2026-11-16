@@ -1,0 +1,159 @@
+{
+ "news": [
+  {
+   "id": "5cc87a8f",
+   "topic": "軍公教",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "d4f7d729",
+   "topic": "tsm",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "c11d8698",
+   "topic": "駭客",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "336bec9c",
+   "topic": "威力彩開獎號碼",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "4e224200",
+   "topic": "年金",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "475dfee4",
+   "topic": "英特爾股價",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "741ec688",
+   "topic": "國際金融",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "6ff932aa",
+   "topic": "新任007龐德出爐!羅伯派汀森接任⋯打敗眾男星製片曝關鍵原因",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "710dab74",
+   "topic": "獨家/應援變調!樂天女孩桌曆銷量成「去留KPI」 暗黑內幕全曝光",
+   "sources": [
+    "Yahoo 娛樂"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "f809f518",
+   "topic": "黃仁勳「背板」不是台股明牌! 分析師揭真相隱憂",
+   "sources": [
+    "ETtoday"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "b0a74bde",
+   "topic": "韓版《高年級實習生》韓韶禧穿搭不輸安海瑟薇 5套「CEO上班裝」被大讚",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.675,
+   "light": "none"
+  },
+  {
+   "id": "f8f7fcc1",
+   "topic": "英國王室成員誰最能駕馭格紋穿搭?凱特王妃和夏綠蒂母女裝最優雅黛安娜王妃造型道現在依然經典",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.7,
+   "light": "none"
+  },
+  {
+   "id": "6d4a2cdc",
+   "topic": "紅色球鞋穿搭超減齡!宋慧喬和Rosé都在穿 不只Nike或Adidas還有這些品牌運動鞋也值得買",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "d54eb198",
+   "topic": "2026秋冬皮衣穿搭5款推薦!宋慧喬、孫藝珍、Karina都在穿,復古棕色、寬版皮衣最時髦 - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.05,
+   "light": "none"
+  },
+  {
+   "id": "82a825f1",
+   "topic": "2026秋冬穿搭推薦|12個女生上班的時尚穿搭公式:極簡風、寬鬆牛仔褲、商務休閒風穿出高級感",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.9,
+   "light": "none"
+  },
+  {
+   "id": "e3d15143",
+   "topic": "木村拓哉來台過生日又穿「這愛牌」牛仔褲!專訪日本潮流天王一條褲子收藏20年不洗牛仔褲的養褲哲學",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.875,
+   "light": "none"
+  }
+ ]
+}
