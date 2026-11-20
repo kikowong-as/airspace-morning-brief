@@ -1,0 +1,159 @@
+{
+ "news": [
+  {
+   "id": "2555735f",
+   "topic": "《GTA 6》封面比基尼辣妹 真實身分曝光",
+   "sources": [
+    "ETtoday",
+    "YouTube 熱門"
+   ],
+   "score": 2.7,
+   "light": "none"
+  },
+  {
+   "id": "6763738e",
+   "topic": "費城半導體指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "25e8381c",
+   "topic": "s&p 500",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "1247e024",
+   "topic": "mu",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "bce1ead4",
+   "topic": "許韶恩",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "2808d449",
+   "topic": "tsm stock",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "283f9e4b",
+   "topic": "那斯達克指數",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "67f9066f",
+   "topic": "大樂透頭獎",
+   "sources": [
+    "Google Trends",
+    "Yahoo 生活"
+   ],
+   "score": 1.597,
+   "light": "none"
+  },
+  {
+   "id": "45d54eab",
+   "topic": "特斯拉股價",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "68f5d954",
+   "topic": "黃仁勳桃色風波延燒!傳輝達晶片流入解放軍攻台實驗室?阻擋美軍援台",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "b69c9f98",
+   "topic": "謝欣穎逛H&M自曝「10年穿搭改變」!高爾宣化身奶爸瞄準童裝區",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.55,
+   "light": "none"
+  },
+  {
+   "id": "f8f7fcc1",
+   "topic": "英國王室成員誰最能駕馭格紋穿搭?凱特王妃和夏綠蒂母女裝最優雅黛安娜王妃造型道現在依然經典",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.475,
+   "light": "none"
+  },
+  {
+   "id": "1b397a1f",
+   "topic": "BTS高雄演唱會掀熱潮!田柾國同款CK牛仔褲成「男友穿搭」必備單品",
+   "sources": [
+    "Google 新聞：男生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "90653784",
+   "topic": "2026秋冬時髦外套TOP 8!邱以太X蔡南筠示範GU人氣款外套,解析高級感穿搭指南:暖度和質感全都要!",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.95,
+   "light": "none"
+  },
+  {
+   "id": "bc133fe8",
+   "topic": "2026秋冬流行色與單品一次看!從柔和奶油黃到大膽電光藍,5大趨勢穿出時髦層次",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.9,
+   "light": "none"
+  },
+  {
+   "id": "a297350e",
+   "topic": "30+女生怎麼穿?學申敏兒「鬆弛感穿搭」:不用名牌也能穿出高級感 - Marie Claire 美麗佳人",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.7,
+   "light": "none"
+  }
+ ]
+}
