@@ -1,0 +1,158 @@
+{
+ "news": [
+  {
+   "id": "b690f88a",
+   "topic": "老農津貼",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "8e701940",
+   "topic": "亞歷山大·茲維列夫",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "49c29f8f",
+   "topic": "飛彈",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "a0db8122",
+   "topic": "西甲",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "d02348e9",
+   "topic": "madrid vs celta",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "ec07ebe2",
+   "topic": "皇家馬德里 對 維戈塞爾塔",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "f9361170",
+   "topic": "76ers vs bucks",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "7fc846b8",
+   "topic": "慘況曝!國道嚴重事故6車追撞2死1傷「年輕男女喪命」人倒路邊蓋白布",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "a5a053a5",
+   "topic": "善男信女入圍影帝 楊偉倫急撇幹掉Uncle",
+   "sources": [
+    "Yahoo 娛樂"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "4f1a71fb",
+   "topic": "川普仍有意與伊朗達成永久協議:不在乎政權更迭但絕不容許擁核",
+   "sources": [
+    "ETtoday"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "e3d15143",
+   "topic": "木村拓哉來台過生日又穿「這愛牌」牛仔褲!專訪日本潮流天王一條褲子收藏20年不洗牛仔褲的養褲哲學",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.225,
+   "light": "none"
+  },
+  {
+   "id": "bc133fe8",
+   "topic": "2026秋冬流行色與單品一次看!從柔和奶油黃到大膽電光藍,5大趨勢穿出時髦層次",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：潮流單品"
+   ],
+   "score": 2.4,
+   "light": "none"
+  },
+  {
+   "id": "d9275322",
+   "topic": "時髦女生早就穿上這款裙子,2026冬季格紋裙回歸,5種穿搭公式優雅又復古",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.4,
+   "light": "none"
+  },
+  {
+   "id": "1b397a1f",
+   "topic": "BTS高雄演唱會掀熱潮!田柾國同款CK牛仔褲成「男友穿搭」必備單品",
+   "sources": [
+    "Google 新聞：男生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.85,
+   "light": "none"
+  },
+  {
+   "id": "f8f7fcc1",
+   "topic": "英國王室成員誰最能駕馭格紋穿搭?凱特王妃和夏綠蒂母女裝最優雅黛安娜王妃造型道現在依然經典",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "b69c9f98",
+   "topic": "謝欣穎逛H&M自曝「10年穿搭改變」!高爾宣化身奶爸瞄準童裝區",
+   "sources": [
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.7,
+   "light": "none"
+  }
+ ]
+}
