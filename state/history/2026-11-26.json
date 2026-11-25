@@ -1,0 +1,160 @@
+{
+ "news": [
+  {
+   "id": "d8437bba",
+   "topic": "連線專訪/比爾哈德自爆耍廢躺床好幾周 化身「戴帽子的貓」為孩子找回笑容",
+   "sources": [
+    "Yahoo 娛樂",
+    "Yahoo 頭條"
+   ],
+   "score": 2.625,
+   "light": "none"
+  },
+  {
+   "id": "6055fe4b",
+   "topic": "天气",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "d4f7d729",
+   "topic": "tsm",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "b598f0e2",
+   "topic": "天氣",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "722eb4aa",
+   "topic": "สภาพอากาศ",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "a99457ef",
+   "topic": "thời tiết",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.71,
+   "light": "none"
+  },
+  {
+   "id": "6e59cc6f",
+   "topic": "光通訊",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "c28ac6ba",
+   "topic": "HDMI 與 DisplayPort 混搭輸出可行嗎?一文看懂接法與潛在限制",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "a33b2295",
+   "topic": "盧比歐憂輝達釀國安威脅 曾向川普示警黃仁勳對中政策立場",
+   "sources": [
+    "ETtoday"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "41913286",
+   "topic": "GiiiRIP",
+   "sources": [
+    "YouTube 熱門"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "9e233210",
+   "topic": "真的?有這麼容易嗎? (#01J)",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.975,
+   "light": "none"
+  },
+  {
+   "id": "e658b6bf",
+   "topic": "女生「1穿搭」讓他起反應!八年級男尷尬求問 網秒懂:別越界就好",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.675,
+   "light": "none"
+  },
+  {
+   "id": "40d4ca41",
+   "topic": "日本冬天穿搭推薦2026!怕冷女生遊日必學「外厚內薄」洋蔥式穿搭技巧",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.76,
+   "light": "none"
+  },
+  {
+   "id": "ef46d94b",
+   "topic": "男生最招架不住哪種穿搭? Dcard男尷尬求救無袖上衣讓他起反應,6種心動穿搭掀討論",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 2.55,
+   "light": "none"
+  },
+  {
+   "id": "a9d9e0f6",
+   "topic": "一雙白球鞋就能打造時髦秋冬穿搭!從adidas薄底鞋到復古老爹鞋,6種牛仔褲搭配一次學起來",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.175,
+   "light": "none"
+  },
+  {
+   "id": "d63ed86e",
+   "topic": "專訪《再婚皇后》申敏兒穿搭靠「1單品」造型美到發光! 曾為結婚時的「他 」來台感情觀清醒品味也一絕",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.725,
+   "light": "none"
+  }
+ ]
+}
