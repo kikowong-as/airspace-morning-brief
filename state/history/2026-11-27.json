@@ -1,0 +1,159 @@
+{
+ "news": [
+  {
+   "id": "d98a1ccd",
+   "topic": "陳珮騏",
+   "sources": [
+    "Google Trends",
+    "Yahoo 娛樂"
+   ],
+   "score": 3.037,
+   "light": "none"
+  },
+  {
+   "id": "36df5406",
+   "topic": "期貨",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "bb2f422a",
+   "topic": "營業額",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "6cc1384a",
+   "topic": "國民年金",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "55c3b2ab",
+   "topic": "血糖",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "57c90f81",
+   "topic": "今天天氣",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "8adec1bf",
+   "topic": "ettoday新闻云",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "7a0c1d71",
+   "topic": "Xiaomi 18 Pro 系列上市!背螢幕加入自拍取景、容量免費升級加舊換新最高省 1 萬元",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "1cd322d9",
+   "topic": "蔡康永深夜拋「浮木論」!同志網友吐父子往事 他暖心回應",
+   "sources": [
+    "Yahoo 娛樂"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "b5b8ece2",
+   "topic": "今起放晴回溫 吳德榮:下周飆30度「冷氣團有得等」",
+   "sources": [
+    "ETtoday"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "313b74fe",
+   "topic": "不再建構理想生活:2026年冬季必收的五大趨勢",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.975,
+   "light": "none"
+  },
+  {
+   "id": "e658b6bf",
+   "topic": "女生「1穿搭」讓他起反應!八年級男尷尬求問 網秒懂:別越界就好",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.48,
+   "light": "none"
+  },
+  {
+   "id": "9e233210",
+   "topic": "真的?有這麼容易嗎? (#01J)",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.5,
+   "light": "none"
+  },
+  {
+   "id": "eafa1c85",
+   "topic": "健走鞋也變成時尚流行趨勢!2026女生健走鞋推薦日常穿搭好看又好走路的鞋子哪裡買?鎖定這些品牌",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行"
+   ],
+   "score": 1.875,
+   "light": "none"
+  },
+  {
+   "id": "ef46d94b",
+   "topic": "男生最招架不住哪種穿搭? Dcard男尷尬求救無袖上衣讓他起反應,6種心動穿搭掀討論",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 1.7,
+   "light": "none"
+  },
+  {
+   "id": "c27dc08a",
+   "topic": "《俠盜獵車手 VI》玩法亮點不只飆車搶劫!時尚迷期待角色穿搭、聯名與精品跨界",
+   "sources": [
+    "Google 新聞：穿搭"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ]
+}
