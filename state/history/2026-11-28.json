@@ -1,0 +1,159 @@
+{
+ "news": [
+  {
+   "id": "b3501516",
+   "topic": "今日天氣",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.25,
+   "light": "none"
+  },
+  {
+   "id": "8b2a6cf8",
+   "topic": "nottingham forest vs chelsea",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.137,
+   "light": "none"
+  },
+  {
+   "id": "ebb6c403",
+   "topic": "消费券",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 2.025,
+   "light": "none"
+  },
+  {
+   "id": "1a87c759",
+   "topic": "立法院",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.912,
+   "light": "none"
+  },
+  {
+   "id": "47bd4072",
+   "topic": "黑豹旗全國高中棒球大賽",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.8,
+   "light": "none"
+  },
+  {
+   "id": "1247e024",
+   "topic": "mu",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.688,
+   "light": "none"
+  },
+  {
+   "id": "755c106e",
+   "topic": "ฟอเรสต์ พบ เชลซี",
+   "sources": [
+    "Google Trends"
+   ],
+   "score": 1.575,
+   "light": "none"
+  },
+  {
+   "id": "22c16a8d",
+   "topic": "侯友宜為什麼推薦李四川?我們都是做事的人",
+   "sources": [
+    "Yahoo 頭條"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "d711573b",
+   "topic": "男神毀容變滿臉橫肉暴君!《西元0年》翻轉22年前經典 「耶穌」竟下令屠殺伯利恆男嬰",
+   "sources": [
+    "Yahoo 娛樂"
+   ],
+   "score": 1.5,
+   "light": "none"
+  },
+  {
+   "id": "13122605",
+   "topic": "金智媛戲外從容優雅穿搭正流行!西裝外套、襯衫必備 亮色系點睛",
+   "sources": [
+    "ETtoday"
+   ],
+   "score": 1.5,
+   "light": "none"
+  }
+ ],
+ "style": [
+  {
+   "id": "313b74fe",
+   "topic": "不再建構理想生活:2026年冬季必收的五大趨勢",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：潮流單品",
+    "Google 新聞：穿搭"
+   ],
+   "score": 3.0,
+   "light": "none"
+  },
+  {
+   "id": "e658b6bf",
+   "topic": "女生「1穿搭」讓他起反應!八年級男尷尬求問 網秒懂:別越界就好",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.9,
+   "light": "none"
+  },
+  {
+   "id": "19753463",
+   "topic": "紐時專訪狂問「品牌憑什麼賣10億美元」?Hailey Bieber一句神回圈粉,同場90年代極簡穿搭致敬偶像的偶像",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.55,
+   "light": "none"
+  },
+  {
+   "id": "fdf6c842",
+   "topic": "內衣進入「外穿」時代,從時尚圈人士的搭配靈感出發,掌握2026年6大內衣穿搭趨勢",
+   "sources": [
+    "Google 新聞：服裝流行",
+    "Google 新聞：穿搭"
+   ],
+   "score": 2.175,
+   "light": "none"
+  },
+  {
+   "id": "ef46d94b",
+   "topic": "男生最招架不住哪種穿搭? Dcard男尷尬求救無袖上衣讓他起反應,6種心動穿搭掀討論",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 2.16,
+   "light": "none"
+  },
+  {
+   "id": "27e3a69c",
+   "topic": "GU 透膚上衣 Threads 爆紅!290 元神級內搭掀穿搭熱潮!",
+   "sources": [
+    "Google 新聞：女生穿搭",
+    "Google 新聞：男生穿搭"
+   ],
+   "score": 2.025,
+   "light": "none"
+  }
+ ]
+}
